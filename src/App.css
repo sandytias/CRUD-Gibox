@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.delete_icon {
+  cursor: pointer;
+}
+
+.back-icon {
+  margin-left: 150px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
